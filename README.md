@@ -1,1 +1,2 @@
 # Developing-eGarden-penyiram-tanaman-otomatis-
+dengan menerapkan sistem mikrokontroler Arduino dengan detektor dan sensor untuk mendeteksi tanah yang kering, sensor akan mendeteksi kadar air pada tanah, ketika kadar air mencapai pada batas tertentu mesin akan menylakam pompa air untuk memompa air dan menyiramkan air pada daerah tersebut. mesin ini dibuat untuk mempermudah kita agar kita tidak perlu bersusah payah menyiramkan air secara manual.
